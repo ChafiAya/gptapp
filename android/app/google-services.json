@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "943573549164",
+    "project_id": "gptreplica",
+    "storage_bucket": "gptreplica.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943573549164:android:1507c7a31bd49c16dd1849",
+        "android_client_info": {
+          "package_name": "com.example.gptapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943573549164-d62o8ts1ep66fgfe8sbk9dec1p0qmn0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gptapp",
+            "certificate_hash": "90f1bc8264fe77807ca47fcce3397c5a8996ee02"
+          }
+        },
+        {
+          "client_id": "943573549164-9rn3l19fcddjsvsdo6nqkh8skli41jlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyrFIKTWuU-1wSlrjNBwIGXxNlJ3TxXB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943573549164-1a42st6kqmuo5b5iqkd621rt4imtii10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
